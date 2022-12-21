@@ -1,0 +1,3 @@
+[submodule "arch"]
+	path = arch
+	url = https://aur.archlinux.org/cppaper.git
